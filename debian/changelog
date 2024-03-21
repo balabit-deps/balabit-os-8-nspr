@@ -1,3 +1,10 @@
+nspr (2:4.35-0ubuntu0.20.04.1) focal-security; urgency=medium
+
+  * Update to 4.35 to support nss security update.
+    - debian/libnspr3.symbols: added new symbol.
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Thu, 21 Mar 2024 08:18:35 -0400
+
 nspr (2:4.25-1) unstable; urgency=medium
 
   * New upstream release.

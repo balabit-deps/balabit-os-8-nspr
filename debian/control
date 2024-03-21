@@ -1,7 +1,8 @@
 Source: nspr
 Section: libs
 Priority: optional
-Maintainer: Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>
 Uploaders: Mike Hommey <glandium@debian.org>
 Build-Depends: debhelper (>= 9.20160114), autotools-dev, dpkg-dev (>= 1.15.4)
 Standards-Version: 4.1.4
